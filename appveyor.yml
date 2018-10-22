@@ -17,6 +17,9 @@ environment:
 install:
   - cinst docfx
 
+build_script:
+- ps: write-host "Nothing to build. Skipping..."
+
 deploy_script:
 - git config --global credential.helper store
 - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:github_access_token):x-oauth-basic@github.com`n"
