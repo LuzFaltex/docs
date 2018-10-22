@@ -1,39 +1,48 @@
 {
-  "metadata": [
-    {
-      "src": [
-        {
-          "files": [ "**/*.sln", "src/DotnetNew/*.csproj" ],
-          "exclude": [ "**/bin/**", "**/obj/**" ],
-          "src": "src"
-        }
-      ],
-      "dest": "obj/api"
-    }
-  ],
   "build": {
     "content": [
       {
-        "files": [ "**/*.yml" ],
-        "src": "obj/api",
-        "dest": "api"
-      },
-      {
-        "files": [ "articles/**/*.md", "*.md", "toc.yml", "restapi/**" ]
+        "files": [
+		  "**/*.md",
+		  "**/*.yml"
+        ]
       }
     ],
     "resource": [
       {
-        "files": [ "articles/images/**"]
+        "files": [
+          "**/*.png",
+		  "**/*.jpg",
+		  "**/*.gif",
+		  "**/*.pdf",
+		  "**/*.pptx"
+        ]
       }
     ],
-    "overwrite": "specs/*.md",
-    "globalMetadata": {
-      "_appTitle": "docfx seed website",
-      "_enableSearch": true
-    },
-    "markdownEngineName": "markdig",
+	"overwrite": [],
+	"externalReference": [],
+	"globalMetadata": {
+      "_appTitle": "LuzFaltex Documentation",
+      "_appFooter": "LuzFaltex (c) 2014-2018",
+      "_enableSearch": true,
+	  "titleSuffix": "LuzFaltex Docs",
+	  "feedback_system": "GitHub",
+	  "feedback_github_repo": "LuzFaltex/docs",
+	  "author": "Foxtrek_64"
+	  },
+	"fileMetadata": {},
+	"template": [
+	  "default",
+	  "_template/light-dark-theme",
+	  "_template/last-modified",
+	  "_template/description-generator"
+	],
     "dest": "_site",
-    "xrefService": [ "https://xref.docs.microsoft.com/query?uid={uid}" ]
+    "postProcessors": [],
+    "markdownEngineName": "markdig",
+    "noLangKeyword": false,
+    "keepFileLink": false,
+    "cleanupCacheHistory": false,
+    "disableGitFeatures": false
   }
 }
