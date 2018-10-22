@@ -10,7 +10,7 @@ branches:
 
 environment:
   github_access_token:
-    secure: +y38PLturiEnFo2khJ2YQNiIx1k2ToIjsbGhDiL/M6+cfAgjXxtWqWgeeGfKowuM
+    secure: BXPoJU6XqzvaRKqI0w9n8xKoMnGKEv4MfoQNtMMP77G5cdpiYd31Ovjh3g551b8L
   github_email:
     secure: DYBh+dFLOZR/N9NsRd2UVdDoiGX+fcmXlg2GiRpBUJc=
 
@@ -22,7 +22,7 @@ build_script:
 
 deploy_script:
 - git config --global credential.helper store
-- ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:github_access_token):x-oauth-basic@github.com`n"
+- ps: Add-Content "$HOME\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
 - git config --global user.email %github_email%
 - git config --global user.name "foxtrek64"
 - git config http.postBuffer 524288000
