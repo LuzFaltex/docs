@@ -7,7 +7,7 @@ ms.date: 01/18/2018
 ---
 # Set up Git repository locally for documentation
 
-This article describes the steps to set up a git repository on your local machine, with the intent to contribute to Microsoft documentation. Contributors may use a locally cloned repository to add new articles, do major edits on existing articles, or change artwork.
+This article describes the steps to set up a git repository on your local machine, with the intent to contribute to LuzFaltex documentation. Contributors may use a locally cloned repository to add new articles, do major edits on existing articles, or change artwork.
 
 You run these one-time setup activities to get started contributing:
 > [!div class="checklist"]
@@ -23,32 +23,13 @@ You run these one-time setup activities to get started contributing:
 
 ## Overview
 
-To contribute to Microsoft's documentation site, you can make and edit Markdown files locally by cloning the corresponding documentation repository. Microsoft requires you to fork the appropriate repository into your own github account, so that you have read/write permissions there to store your proposed changes. Then you use pull requests to merge changes into the read-only central shared repository.
+To contribute to LuzFaltex's documentation site, you can make and edit Markdown files locally by cloning the corresponding documentation repository. LuzFaltex requires you to fork the appropriate repository into your own github account, so that you have read/write permissions there to store your proposed changes. Then you use pull requests to merge changes into the read-only central shared repository.
 
 ![GitHub Triangle](./media/git-and-github-initial-setup.png)
 
-If you're new to GitHub, watch the following video for a conceptual overview of the forking and cloning process:
+If you're new to GitHub, watch the following video from Microsoft for a conceptual overview of the forking and cloning process:
 
 >[!VIDEO https://channel9.msdn.com/Blogs/CoolMoose/Git-Repository-Setup/player]
-
-## Determine the repository
-
-Documentation hosted at [docs.microsoft.com](https://docs.microsoft.com) resides in several different repositories at [github.com](https://www.github.com).
-
-1. If you are unsure of which repository to use, then visit the article on docs.microsoft.com using your web browser. Select the **Edit** link (pencil icon) on the upper right of the article.
-
-   ![Click Edit to determine the repo and file location.](media/index/edit-article.png)
-
-2. That link takes you to github.com location for the corresponding Markdown file in the appropriate repository. Note the URL to view the repository name.
-
-   ![Notice the URL to determine the repository location.](media/public-repo.png)
-
-   For example, these popular repositories are available for public contributions:
-   - Azure documentation [https://github.com/MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-   - SQL Server documentation [https://github.com/MicrosoftDocs/sql-docs](https://github.com/MicrosoftDocs/sql-docs)
-   - Visual Studio documentation [https://github.com/MicrosoftDocs/visualstudio-docs](https://github.com/MicrosoftDocs/visualstudio-docs)
-   - .NET Documentation [https://github.com/dotnet/docs](https://github.com/dotnet/docs)
-   - Azure .Net SDK documentation [https://github.com/azure/azure-docs-sdk-dotnet](https://github.com/azure/azure-docs-sdk-dotnet)
 
 ## Fork the repository
 Using the appropriate repository, create a fork of the repository into your own GitHub account by using the GitHub website.
@@ -130,7 +111,7 @@ After cloning the repository, set up a read-only remote connection to the main r
    git fetch upstream
    ```
 
-2. View the configured values and confirm the URLs are correct. Ensure the **origin** URLs point to your personal fork. Ensure the **upstream** URLs point to the main repository, such as MicrosoftDocs or Azure. 
+2. View the configured values and confirm the URLs are correct. Ensure the **origin** URLs point to your personal fork. Ensure the **upstream** URLs point to the main repository, such as LuzFaltexDocs or Azure. 
    ```bash
    git remote -v 
    ```
@@ -139,8 +120,8 @@ After cloning the repository, set up a read-only remote connection to the main r
    ```output
    origin  https://github.com/MyGitAccount/azure-docs.git (fetch)
    origin  https://github.com/MyGitAccount/azure-docs.git(push)
-   upstream        https://github.com/MicrosoftDocs/azure-docs.git (fetch)
-   upstream        https://github.com/MicrosoftDocs/azure-docs.git (push)
+   upstream        https://github.com/LuzFaltexDocs/azure-docs.git (fetch)
+   upstream        https://github.com/LuzFaltexDocs/azure-docs.git (push)
    ```
 
 3. If you made a mistake, you can remove the remote value. To remove the upstream value, run the command `git remote remove upstream`.
