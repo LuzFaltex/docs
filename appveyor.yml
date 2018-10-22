@@ -22,7 +22,7 @@ build_script:
 
 deploy_script:
 - git config --global credential.helper store
-- ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:github_access_token):x-oauth-basic@github.com`n"
+- ps: Add-Content "$env:USERPROFILE\.git-credentials" "git@github.com:LuzFaltex/docs.git`n"
 - git config --global user.email %github_email%
 - git config --global user.name "myusername"
 - bash releaseDocs.sh
