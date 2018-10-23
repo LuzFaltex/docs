@@ -20,6 +20,9 @@ git rm -r *
 echo "Copy documentation into the repo"
 cp -r $SOURCE_DIR/docs/_site/* .
 
+echo "Build CNAME doc"
+echo -e "docs.luzfaltex.com\n" >> CNAME
+
 echo "Push the new docs to the remote branch"
 git add . -A
 git commit -m "Update generated documentation"
