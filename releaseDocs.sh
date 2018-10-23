@@ -1,8 +1,13 @@
 #!/bin/sh
 set -e
 
+echo ""
+echo "Printing current directory"
 ls .
+echo ""
+echo "Printing docs directory"
 ls ./docs/
+echo .
 docfx build ./docs/docfx.yml
 
 SOURCE_DIR=$PWD
