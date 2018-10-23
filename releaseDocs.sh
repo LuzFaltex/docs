@@ -8,7 +8,7 @@ echo ""
 echo "Printing docs directory"
 ls ./docs/
 echo .
-docfx build $SOURCE_DIR/docs/docfx.yml
+docfx build $PWD/docs/docfx.yml
 
 SOURCE_DIR=$PWD
 TEMP_REPO_DIR=$PWD/../my-project-gh-pages
