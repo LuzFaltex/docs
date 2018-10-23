@@ -1,14 +1,14 @@
 build:
   content:
     files:
-      - "**/*.md",
+      - "**/*.md"
       - "**/*.yml"
   resource:
     files:
-      - "**/*.png",
-      - "**/*.jpg",
-      - "**/*.gif",
-      - "**/*.pdf",
+      - "**/*.png"
+      - "**/*.jpg"
+      - "**/*.gif"
+      - "**/*.pdf"
       - "**/*.pptx"
 globalMetadata:
   _appTitle: "LuzFaltex Documentation"

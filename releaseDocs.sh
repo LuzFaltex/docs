@@ -1,21 +1,6 @@
 #!/bin/sh
 set -e
 
-echo ""
-echo "Printing '$PWD' directory"
-ls $PWD
-echo ""
-echo "Printing '$PWD/docs/' directory"
-ls $PWD/docs/
-echo .
-echo ""
-
-file=$PWD/docs/docfx.yml
-if [ -e "$file" ]; then
-    echo "docfx.yml DOES exist"
-else
-    echo "docfx.yml DOES NOT exist"
-fi
 docfx build $PWD/docs
 
 SOURCE_DIR=$PWD
