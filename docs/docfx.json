@@ -37,13 +37,12 @@
 	  "_template/last-modified",
 	  "_template/description-generator"
 	],
-    "dest": "_site",
-    "postProcessors": [],
-    "markdownEngineName": "markdig",
-    "noLangKeyword": false,
-    "keepFileLink": false,
-    "cleanupCacheHistory": false,
-    "disableGitFeatures": false,
-    "uglifyUrl": true
+  "dest": "_site",
+  "postProcessors": [],
+  "markdownEngineName": "markdig",
+  "noLangKeyword": false,
+  "keepFileLink": false,
+  "cleanupCacheHistory": false,
+  "disableGitFeatures": false
   }
 }
