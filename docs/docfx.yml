@@ -1,16 +1,7 @@
-build: 
-  content: 
-    files: 
-      - "**/*.md"
-      - "**/*.yml"
-  resource: 
-    files: 
-      - "**/*.png"
-      - "**/*.jpg"
-      - "**/*.gif"
-      - "**/*.pdf"
-      - "**/*.pptx"
-dest: _site
+content: 
+  include:
+    - "**/*.{md,yml}"
+    - "**/*.{png,jpg,gif,pdf,pptx}"
 globalMetadata: 
   _appFooter: "Portions of this page are (c) LuzFaltex 2014-2018 // Powered by <a href=\"https://github.com/dotnet/docfx\">DocFX</a>"
   _appTitle: "LuzFaltex Documentation"
@@ -18,10 +9,4 @@ globalMetadata:
   author: Foxtrek_64
   feeback_github_repo: LuzFaltex/docs
   feedbackSystem: GitHub
-  titleSuffix: "LuzFaltex Docs"
-markdownEngineName: markdig
-template: 
-  - default
-  - _template/light-dark-theme
-  - _template/last-modified
-  - _template/description-generator
+titleSuffix: "LuzFaltex Docs"
