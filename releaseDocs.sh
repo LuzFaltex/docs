@@ -15,6 +15,7 @@ if [ -e "$file"]; then
     echo "docfx.yml DOES exist"
 else
     echo "docfx.yml DOES NOT exist"
+fi
 docfx build $file
 
 SOURCE_DIR=$PWD
