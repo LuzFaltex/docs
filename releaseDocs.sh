@@ -5,10 +5,17 @@ echo ""
 echo "Printing '$PWD' directory"
 ls $PWD
 echo ""
-echo "Printing '$PWD/docs/'' directory"
+echo "Printing '$PWD/docs/' directory"
 ls $PWD/docs/
 echo .
-docfx build $PWD/docs/docfx.yml
+echo ""
+
+file=$PWD/docs/docfx.yml
+if [ -e "$file"]; then
+    echo "docfx.yml DOES exist"
+else
+    echo "docfx.yml DOES NOT exist"
+docfx build $file
 
 SOURCE_DIR=$PWD
 TEMP_REPO_DIR=$PWD/../my-project-gh-pages
