@@ -1,6 +1,8 @@
 #!/bin/sh
 set -e
 
+ls .
+ls ./docs/
 docfx build ./docs/docfx.yml
 
 SOURCE_DIR=$PWD
