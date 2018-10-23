@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-docfx build ./docs/docfx.json
+docfx build ./docs/docfx.yml
 
 SOURCE_DIR=$PWD
 TEMP_REPO_DIR=$PWD/../my-project-gh-pages
