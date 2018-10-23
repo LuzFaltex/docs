@@ -2,11 +2,11 @@
 set -e
 
 echo ""
-echo "Printing current directory"
-ls .
+echo "Printing $PWD directory"
+ls $PWD
 echo ""
-echo "Printing docs directory"
-ls ./docs/
+echo "Printing $PWD/docs/ directory"
+ls $PWD/docs/
 echo .
 docfx build $PWD/docs/docfx.yml
 
