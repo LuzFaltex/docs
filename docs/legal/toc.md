@@ -1,4 +1,5 @@
 # [Overview](overview.md)
+# [Code of Conduct](code-of-conduct.md)
 # [Privacy Overview](privacy-overview.md)
 ## [Privacy Policy](privacy-policy.md)
 # [TACOS Overview](tacos-overview.md)
