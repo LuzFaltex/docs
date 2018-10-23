@@ -1,3 +1,6 @@
 - name: Contribute
   href: contribute/
   homepage: contribute/index.md
+- name: Legal
+  href: legal/
+  homepage: legal/overview.md

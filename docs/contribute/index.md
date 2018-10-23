@@ -2,7 +2,6 @@
 title: LuzFaltex Docs contributor guide overview
 description: The guide describes how you can contribute to the LuzFaltex documentation site docs.luzfaltex.com.
 author: Foxtrek_64
-ms.date: 10/22/18
 ---
 
 # LuzFaltex Docs contributor guide overview
