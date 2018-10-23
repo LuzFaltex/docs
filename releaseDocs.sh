@@ -11,12 +11,12 @@ echo .
 echo ""
 
 file=$PWD/docs/docfx.yml
-if [ -e "$file"]; then
+if [ -e "$file" ]; then
     echo "docfx.yml DOES exist"
 else
     echo "docfx.yml DOES NOT exist"
 fi
-docfx build $file
+docfx build $PWD/docs
 
 SOURCE_DIR=$PWD
 TEMP_REPO_DIR=$PWD/../my-project-gh-pages
