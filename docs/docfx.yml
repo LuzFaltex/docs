@@ -1,0 +1,27 @@
+build:
+  content:
+    files:
+      - "**/*.md",
+      - "**/*.yml"
+  resource:
+    files:
+      - "**/*.png",
+      - "**/*.jpg",
+      - "**/*.gif",
+      - "**/*.pdf",
+      - "**/*.pptx"
+globalMetadata:
+  _appTitle: "LuzFaltex Documentation"
+  _appFooter: "Portions of this page are (c) LuzFaltex 2014-2018 // Powered by <a href=\"https://github.com/dotnet/docfx\">DocFX</a>"
+  _enableSearch: true
+  titleSuffix: "LuzFaltex Docs"
+  feedbackSystem: "GitHub"
+  feeback_github_repo: "LuzFaltex/docs"
+  author: "Foxtrek_64"
+template:
+  - "default"
+  - "_template/light-dark-theme"
+  - "_template/last-modified"
+  - "_template/description-generator"
+dest: "_site"
+markdownEngineName: "markdig"
