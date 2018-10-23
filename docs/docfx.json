@@ -12,10 +12,10 @@
       {
         "files": [
           "**/*.png",
-		  "**/*.jpg",
-		  "**/*.gif",
-		  "**/*.pdf",
-		  "**/*.pptx"
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.pdf",
+          "**/*.pptx"
         ]
       }
     ],
@@ -23,12 +23,12 @@
 	"externalReference": [],
 	"globalMetadata": {
       "_appTitle": "LuzFaltex Documentation",
-      "_appFooter": "LuzFaltex (c) 2014-2018",
+      "_appFooter": "Portions of this page are (c) LuzFaltex 2014-2018 // Powered by <a href=\"https://github.com/dotnet/docfx\">DocFX</a>",
       "_enableSearch": true,
-	  "titleSuffix": "LuzFaltex Docs",
-	  "feedback_system": "GitHub",
-	  "feedback_github_repo": "LuzFaltex/docs",
-	  "author": "Foxtrek_64"
+      "titleSuffix": "LuzFaltex Docs",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "LuzFaltex/docs",
+      "author": "Foxtrek_64"
 	  },
 	"fileMetadata": {},
 	"template": [
@@ -43,6 +43,7 @@
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": false,
+    "uglifyUrl": true
   }
 }
