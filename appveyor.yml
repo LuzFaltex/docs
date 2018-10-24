@@ -17,7 +17,7 @@ install:
   - dotnet tool install -g docfx --version 3.0.0-* --add-source https://www.myget.org/F/docfx-v3/api/v2
 
 build_script:
-- docfx build ./docs/
+- ps: write-host "Nothing to build. Skipping..."
 
 deploy_script:
 - git config --global credential.helper store
