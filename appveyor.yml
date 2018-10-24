@@ -14,8 +14,8 @@ environment:
 
 install:
 #  - cinst docfx
-  - dotnet tool install -g docfx --version 3.0.0-* --add-source https://www.myget.org/F/docfx-v3/api/v2
-  - git --version
+#  - dotnet tool install -g docfx --version 3.0.0-* --add-source https://www.myget.org/F/docfx-v3/api/v2
+#  - git --version
 
 build_script:
 - ps: write-host "Nothing to build. Skipping..."

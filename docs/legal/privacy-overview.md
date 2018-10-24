@@ -13,7 +13,7 @@ LuzFaltex is committed to protecting the privacy of visitors to our websites and
 > LuzFaltex does not sell or rent member or website visitor information under any circumstances and we will independently object to disclosure of your information except where compelled by law.
 
 > [!IMPORTANT]
-> This overview page is a human readable summary and is not a replacement for the [Privacy Policy](./privacy-policy)
+> This overview page is a human readable summary and is not a replacement for the [Privacy Policy](./privacy-policy.md)
 
 ## We will not
 

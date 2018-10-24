@@ -10,15 +10,15 @@ ms.date: 12/23/18
 The Terms and Conditions of Service (herein "TACOS") is our version of a Terms of Service agreement.
 
 > [!IMPORTANT]
-> This overview page is a human readable summary and is not a replacement for the [TACOS](./tacos-policy).
+> This overview page is a human readable summary and is not a replacement for the [TACOS](./tacos-policy.md).
 
 The TACOS specify an agreement between you and LuzFaltex which govern your use of of our content, sites, services, and products (herein "projects"). Additional agreements may be imposed at the project level, such as licensing agreements and codes of conduct related to the particular project.
 
 By using any of our projects, you agree to be bound by the following:
 
-* The [TACOS](tacos-policy)
-* The [Privacy Policy](privacy-overview)
-* The [Code of Conduct](code-of-conduct)
+* The [TACOS](./tacos-policy.md)
+* The [Privacy Policy](./privacy-overview.md)
+* The [Code of Conduct](./code-of-conduct.md)
 * Project-specific agreements
 
 Failure to abide by these policies may result in disciplinary action up to and including a permanent ban from all of our projects.
