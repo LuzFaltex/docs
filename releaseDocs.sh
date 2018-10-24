@@ -1,8 +1,6 @@
 #!/bin/sh
 set -e
 
-docfx build $PWD/docs
-
 SOURCE_DIR=$PWD
 TEMP_REPO_DIR=$PWD/../my-project-gh-pages
 
