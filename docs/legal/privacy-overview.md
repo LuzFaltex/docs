@@ -7,13 +7,13 @@ ms.date: 12/23/18
 
 # Privacy Policy Overview
 
+> [!IMPORTANT]
+> This overview page is a human readable summary and is not a replacement for the [Privacy Policy](./privacy-policy.md)
+
 LuzFaltex is committed to protecting the privacy of visitors to our websites and services, as well as our members and volunteers.
 
 > [!TIP]
 > LuzFaltex does not sell or rent member or website visitor information under any circumstances and we will independently object to disclosure of your information except where compelled by law.
-
-> [!IMPORTANT]
-> This overview page is a human readable summary and is not a replacement for the [Privacy Policy](./privacy-policy.md)
 
 ## We will not
 
