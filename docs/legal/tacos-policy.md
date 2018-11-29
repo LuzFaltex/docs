@@ -13,7 +13,7 @@ The following Terms and Conditions of Service ("TACOS") govern all use of the Lu
 
 Please read these Agreements carefully before accessing or using the Website. An easy-read version has been provided in the [TACOS Overview](tacos-overview.md) though the overview is not a replacement for the complete TACOS. By accessing or using any part of the Projects and/or uploading or attempting to upload any Content (as defined in [Definitions](#definitions)), you agree to become bound by the Agreements hereafter perpetually and indefinitely, regardless of whether you continue to remain a registered user or not, unless and until terminated, in whole or in part, by LuzFaltex on notice to you. If you do not agree to all the terms and conditions of this agreement, then you may not access any of the Projects. If these TACOS are considered an offer by LuzFaltex, acceptance is expressly limited to these terms. The Projects are available only to individuals who are at least 13 years old, or if younger than 13, with the appropriate permission and consents from your parent or legal guardian.
 
-We may change these TACOS or make new TACOS at any time. Although we will attempt to notify you through reasonable means when the TACOS change, we are under no obligation to do so. The newest TACOS will always be available at our documentation pages under [Terms and Conditions of Service](.). A history of all of the changes made to these TACOS will be available on [GitHub](https://github.com/LuzFaltex/docs/blob/master/docs/legal/tacos-policy.md).
+We may change these TACOS or make new TACOS at any time. Although we will attempt to notify you through reasonable means when the TACOS change, we are under no obligation to do so. The newest TACOS will always be available at our documentation pages under [Terms and Conditions of Service](tacos-policy.md). A history of all of the changes made to these TACOS will be available on [GitHub](https://github.com/LuzFaltex/docs/blob/master/docs/legal/tacos-policy.md).
 
 ## Definitions
 
@@ -41,7 +41,7 @@ In order to ensure the safety of all of our members, we require users to respect
   * You will be held accountable for any actions using your account, account name, or your likeness, regardless of who was using it and regardless of authorization.
   * In the event of a loss of control of any account, you must inform members of staff immediately through any available means, including but not limited to Discord, email, or any other available and known means of communication, provided that it is electronic and may be reasonably expected to be received in a timely manner.
 
-## User Conduct Standards
+## User Content Standards
 
 You area solely responsible and liable for your communications and Content (and the consequences thereof) made under your name, username, email address, password, and your registration and profile information, if any. Content does not reflect the views of LuzFaltex, and we do not represent or guarantee the truthfulness, accuracy, or reliability of any Content, or endorse or support any opinions expressed in any Content. **In no event shall LuzFaltex have or be construed to have any responsibility for or in connection with any Content.** If we determine, in our sole discretion, you or any Content you submit violates these TACOS, we reserve the right, at any time, without notice and without limiting any of the other rights we may have under these agreements, at law or in equity, to:
 

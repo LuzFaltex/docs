@@ -17,7 +17,7 @@ Several of our documentation sets are open source, hosted on GitHub. This stream
 The user experience on [docs.luzfaltex.com](https://docs.luzfaltex.com) integrates [GitHub](https://github.com) workflows directly to make it even easier. Start by [editing the document you are viewing](#quick-edits-to-existing-documents). Or, help by [reviewing new topics](#review-open-prs), or [create quality issues](#create-quality-issues).
 
 > [!IMPORTANT]
-> All repositories that publish to docs.luzfaltex.com have adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any questions or comments.<br>
+> All repositories that publish to docs.luzfaltex.com have adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any questions or comments.
 
 ## Quick edits to existing documents
 
@@ -63,3 +63,7 @@ Issues start the conversation about what's needed. The content team will respond
 ## Get more involved
 
 Other topics help you get started productively contributing to LuzFaltex Docs. They explain working with GitHub repositories, Markdown tools, and extensions used in the LuzFaltex Docs platform.
+
+## Code contributions
+
+If you wish to contribute code to our projects, please see our [Code Contribution Guide](./code/contributing.md).

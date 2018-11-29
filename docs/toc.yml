@@ -4,3 +4,6 @@
 - name: Legal
   href: legal/
   homepage: legal/overview.md
+- name: Articles
+  href: articles/
+  homepage: articles/immutable-laws.md
