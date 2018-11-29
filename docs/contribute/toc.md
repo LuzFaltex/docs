@@ -17,5 +17,5 @@
 ## [Workflow](code/workflow.md)
 ## [Code Style](code/coding-style.md)
 ## [API Review Process](code/api-review.md)
-# [Framework Design Guidelines](code/framework-design-guidelines-digest.md)
+## [Framework Design Guidelines](code/framework-design-guidelines-digest.md)
 # [Additional resources](additional-resources.md)
