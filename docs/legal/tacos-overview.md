@@ -17,7 +17,7 @@ The TACOS specify an agreement between you and LuzFaltex which govern your use o
 By using any of our projects, you agree to be bound by the following:
 
 * The [TACOS](./tacos-policy.md)
-* The [Privacy Policy](./privacy-overview.md)
+* The [Privacy Policy](./privacy-policy.md)
 * The [Code of Conduct](./code-of-conduct.md)
 * Project-specific agreements
 
