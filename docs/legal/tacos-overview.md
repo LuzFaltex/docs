@@ -28,7 +28,7 @@ Failure to abide by these policies may result in disciplinary action up to and i
 > [!NOTE]
 > The projects made available to you by LuzFaltex are available only to persons 13 years or older. If you are younger than 13 years old, please get permission from your parent or legal guardian before accessing any Projects.
 >
-> Some projects may impose stricter age limits. Please see the agreements of each Project before using said Project.
+> Some projects may impose additional access restrictions. Please see the agreements of each Project before using said Project.
 
 When you submit content, be it through forum posts, private messages, or other means, you retain ownership over said content. However, by doing so you grant us the right to host, display, and use your content for the purposes specified.
 
