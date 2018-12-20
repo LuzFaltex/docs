@@ -15,6 +15,8 @@ In this Policy, "LuzFaltex" refers to LuzFaltex staff, board members, cooperatin
 
 This domain (luzfaltex.com) complies with user opt-outs from tracking via the "Do Not Track" or ["DNT" header](http://www.w3.org/TR/tracking-dnt/). This file will always be posted via HTTPS at [https://www.LuzFaltex.com/.well-known/dnt-policy.txt](https://www.LuzFaltex.com/.well-known/dnt-policy.txt) to indicate this fact.
 
+This privacy policy shall cover the use of LuzFaltex.com and any LuzFaltex Project site.
+
 ## Security
 
 LuzFaltex employs industry standard security measures to protect from the loss, misuse, and alteration of the information under our control. LuzFaltex has turned on [HTTPS](https://en.wikipedia.org/wiki/HTTP_Secure) by default, and has further strengthened security by enabling [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) or "HSTS" preloading. HSTS preloading informs your internet browser that it should ONLY connect to LuzFaltex.com through HTTPS.
@@ -29,7 +31,7 @@ Our security certificates are provided by [Let's Encrypt™](https://letsencrypt
 
 Additional information, such as (but not limited to) gender, hobbies and interests, and additional contact options, may be collected and stored. This information will be retained until manually removed by the user or by administrative action, such as enforcement of the TACOS or account closure.
 
-From time to time, we may ask for personal information on other portions of the site, such as asking you to participate in a contest, or when you provide feedback or comments.
+From time to time, we may ask for personal information on other portions of the site or on any Project site, such as asking you to participate in a contest, or when you provide feedback or comments.
 
 Additionally, any information you release on the forums in the form of posts may be retained as long as that post is in existence. A post is defined as any single comment, whether starting a new thread or replying to an existing thread, or commenting on a user's profile or any other location. Modifying the post will not remove this information (edit history is retained so you can roll back if you make a mistake). If you wish to remove an entire thread or post, mark it as trash. An automated trash collector will collect and dispose of trashed threads after having been in the trash for 30 days.
 
