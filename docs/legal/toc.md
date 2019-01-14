@@ -5,3 +5,7 @@
 ## [Privacy Policy](privacy-policy.md)
 # [TACOS Overview](tacos-overview.md)
 ## [TACOS](tacos-policy.md)
+# [Policies and Procedures](overview.md)
+## [Code of Ethics](code-of-ethics.md)
+## [Non-Discrimination](non-discrimination.md)
+## [Environment Health and Safety](environment-health-safety.md)
