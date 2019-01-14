@@ -117,9 +117,9 @@ After cloning the repository, set up a read-only remote connection to the main r
    ```
 
    Example remote output is shown. A fictitious git account named MyGitAccount is configured with a personal access token to access the repo azure-docs:
-   ```output
+   ```
    origin  https://github.com/MyGitAccount/azure-docs.git (fetch)
-   origin  https://github.com/MyGitAccount/azure-docs.git(push)
+   origin  https://github.com/MyGitAccount/azure-docs.git (push)
    upstream        https://github.com/LuzFaltexDocs/azure-docs.git (fetch)
    upstream        https://github.com/LuzFaltexDocs/azure-docs.git (push)
    ```
