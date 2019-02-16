@@ -13,7 +13,7 @@ Also included in this guide, we will walk you through setting up an example serv
 
 ## Foreword
 
-Many of the practices and the reasons behind them are taken from Microsoft Best Practice for Windows Active Directory. Other sources include [NIST INCITS 359-2012](https://standards.incits.org/apps/group_public/project/details.php?project_id=1658). As such, those of you who are server engineers and administrators used to working in a Windows environment may recognize several of the suggested practices and the reasons behind them. That said, just because Microsoft or LuzFaltex suggests a certain practice does not mean that it is necessarily the best way. If you find anything in this document that does not feel right, we encourage you to [create an issue](https://github.com/LuzFaltex/docs/issues/new/choose) and discuss it with us! If this is something you would like to help with, then you may want to read over our [Contribution Guide](../contribute/index.md).
+Many of the practices and the reasons behind them are taken from Microsoft Best Practice for Windows Active Directory. Other sources include [NIST INCITS 359-2012](https://standards.incits.org/apps/group_public/project/details.php?project_id=1658) and the [LuckPerms Wiki](https://github.com/lucko/LuckPerms/wiki). As such, those of you who are server engineers and administrators used to working in a Windows environment may recognize several of the suggested practices and the reasons behind them. That said, just because Microsoft or LuzFaltex suggests a certain practice does not mean that it is necessarily the best way. If you find anything in this document that does not feel right, we encourage you to [create an issue](https://github.com/LuzFaltex/docs/issues/new/choose) and discuss it with us! If this is something you would like to help with, then you may want to read over our [Contribution Guide](../contribute/index.md).
 
 ## Definitions
 
@@ -81,3 +81,26 @@ RBAC, and its separation of interest design, guarantees the following:
     > [LP] Luck has permission essentials.fly set to true in context global. (inherited from moderator)
     ```
 1. Users always have exactly the permissions they need or are entitled to.
+
+## The Default Group
+
+The default group, known as `default` within commands and in the plugin API, is a built-in group that represents all users on the server. When a player joins the server for the first time, they are automatically added to this group. To fit in with RBAC, you can see this group as representing a "user role." As such, it should be granted permissions that are common to every user. For instance, `essentials.motd` is commonly placed here.
+
+Behind the scenes, hard-coding the default group means that this default group can be faster and more efficient than other custom groups, and it is not susceptible to race conditions. For more information, you can read the [Default Groups](https://github.com/lucko/LuckPerms/wiki/Default-Groups) article on the LuckPerms wiki.
+
+> [!TIP]
+> With the exception of some fringe cases which won't be covered here, server administrators will want to use the built-in default group. This is especially the case when coming from other plugins where a default group is either not present or else is manually specified.
+
+As a user, all players should be a member of this group. Doing so ensures that you may quickly and efficiently make a change for all players.
+
+## The Wildcard Node
+
+The wildcard node, otherwise known as `*`, is a node filter which matches everything. In Bukkit and its sister projects, a permissioning system was developed around allowing plugins to define "everything." However, this breaks expectations and can cause some undesirable behavior, such as an admin expecting users to have a certain permission node and it being missing or else having a permission node they did not expect to issue. Additionally, this encouraged lazy behavior, with the admin group often being issued `*`.
+
+As such, the naked wildcard node (`*`) should be avoided entirely and the use of a plugin wildcard node (`plugin.*`) is strongly discouraged, even for plugins that have a lot of permissions!
+
+Many plugins, especially those on the Sponge platform, have begun creating permission collections such as `plugin.user` and `plugin.admin`. For plugins that provide this functionality, it is strongly encouraged that you use these pre-built collections as the plugin developer has full control over what these nodes entail.
+
+If these are not present, then manually issuing permission nodes is preferred. For most plugins, this will not be too painful of a process. However, for plugins with larger groups of nodes, using the online editor (`/lp editor`) may make this process easier. And while you're at it, create an issue for that plugin and request that these collections be added.
+
+For more information, see the [Nucleus Wiki](https://nucleuspowered.org/docs/nowildcard.html) regarding this topic.
