@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/immutable-laws.html",
-          "hash": "YHCMuyd4LlGxeSwe0BL6EQ=="
+          "hash": "8vIQqfiaXjGzHkIisiVoZw=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "vhKnPpC075chhq2uAr6dGQ=="
+          "hash": "A6Mc0ndXPWiVDr62UJYWeA=="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/additional-resources.html",
-          "hash": "QNtKXAAVZkmhXDKiydVjNA=="
+          "hash": "C29y9jEO4P/PM5/GtiAMyg=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/api-review.html",
-          "hash": "VmLglwnImaUOM0VQu71I3Q=="
+          "hash": "K/06svBVZKGbHHDgXkh0BQ=="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/coding-style.html",
-          "hash": "yXh54bCXvRHJ5oY3pUP6Ow=="
+          "hash": "92sqCy7SsMm7wTXf1nEbIQ=="
         }
       },
       "is_incremental": false,
@@ -90,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/contributing.html",
-          "hash": "eFdwtGcdKLCiNQXDwMuyTg=="
+          "hash": "U0AfqsiRk3/CK87LMCzVZw=="
         }
       },
       "is_incremental": false,
@@ -102,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/copyright.html",
-          "hash": "Ccmlv1x/wM37rAuSCG3WbA=="
+          "hash": "RBuEWjrPvr6xrIjNNWBT0g=="
         }
       },
       "is_incremental": false,
@@ -114,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/framework-design-guidelines-digest.html",
-          "hash": "dR+zjvkSHJ1pIvzYg8DoMA=="
+          "hash": "WmviCC6OlgxRWjSqk/EVbg=="
         }
       },
       "is_incremental": false,
@@ -126,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/issue-guide.html",
-          "hash": "Fv23g07iqZdZ2lruvTQX3g=="
+          "hash": "xWh4fkuiVRuw11+BtLmyOQ=="
         }
       },
       "is_incremental": false,
@@ -138,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/workflow.html",
-          "hash": "puVzsCB4kBEcjkGOPXyBOA=="
+          "hash": "4L/kudUIeSj65XeNcoEUWw=="
         }
       },
       "is_incremental": false,
@@ -150,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/get-started-setup-github.html",
-          "hash": "8G4TAkPFf8mlDD4DBHWFuQ=="
+          "hash": "+x2rpSe9Rcu/7FpNwO1nxQ=="
         }
       },
       "is_incremental": false,
@@ -162,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/get-started-setup-local.html",
-          "hash": "guI17BfA7hsbEcrmZ5aLgQ=="
+          "hash": "cJpWiVv6maNZSt0ShpQbqA=="
         }
       },
       "is_incremental": false,
@@ -174,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/get-started-setup-tools.html",
-          "hash": "LOyL67fAziVzuRtBK6fXHw=="
+          "hash": "S2C8VkXBA/gO9mndbgYArg=="
         }
       },
       "is_incremental": false,
@@ -186,7 +186,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/git-github-fundamentals.html",
-          "hash": "VQwsSnIqhGnMmkG673L7lg=="
+          "hash": "aOBqv6wOPAiraLJqvOLd7g=="
         }
       },
       "is_incremental": false,
@@ -198,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/how-to-write-docs-auth-pack.html",
-          "hash": "uVFcIKnuwoWs3iws0BC4AQ=="
+          "hash": "wrAoRq5x0r5/HNeinTq8hg=="
         }
       },
       "is_incremental": false,
@@ -210,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/how-to-write-links.html",
-          "hash": "uaWPkiIgr3rBbwL9vQU6Ew=="
+          "hash": "ecLbsqWZl8B5EuvbTy9i+w=="
         }
       },
       "is_incremental": false,
@@ -222,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/how-to-write-use-markdown.html",
-          "hash": "Jz9RRaN2fH2Fu39fooqnwA=="
+          "hash": "ccVDQzr+fSJs51D31ETgJw=="
         }
       },
       "is_incremental": false,
@@ -234,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/how-to-write-workflows-major.html",
-          "hash": "smCbfbD4NAaQdCoyzXKaRg=="
+          "hash": "xVlQNlUXTk6EaYfSpk+YTg=="
         }
       },
       "is_incremental": false,
@@ -246,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/includes/contribute-how-to-pull-requests-apex-automation.html",
-          "hash": "/w6+wydRQm/6s+cwrHb9bQ=="
+          "hash": "5IWrxWwGMpQ0aTA7YpJbeQ=="
         }
       },
       "is_incremental": false,
@@ -258,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/includes/contribute-how-to-write-workflows-major-change-definition.html",
-          "hash": "GVH1Aweu0qGwcoYDXFUOLg=="
+          "hash": "UhSiSlqFfyx/qmF67utwow=="
         }
       },
       "is_incremental": false,
@@ -270,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/includes/contribute-how-to-write-workflows-pull-request-processing.html",
-          "hash": "tCmMv4OiEUu+pt1zKIw+hg=="
+          "hash": "SdUp8UxM6GRDPKySjFBw2w=="
         }
       },
       "is_incremental": false,
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/index.html",
-          "hash": "YHJzlXMDW+A0htjubCH8Fg=="
+          "hash": "uRR1JmzKW+6RiLo1yjxtoQ=="
         }
       },
       "is_incremental": false,
@@ -470,7 +470,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/quick-create.html",
-          "hash": "OQCAKQ9Ika6CbtSK4SP9kA=="
+          "hash": "i3NejfmrEBSrj97EkpDBiA=="
         }
       },
       "is_incremental": false,
@@ -482,7 +482,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/style-quick-start.html",
-          "hash": "NlhVe/2MLNN85+wwHAo3iw=="
+          "hash": "xYaJZO8UElpiXXD3IbjC1w=="
         }
       },
       "is_incremental": false,
@@ -506,7 +506,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/validation-reference/index.html",
-          "hash": "NQLOorRyxAibWT5jZlgBRw=="
+          "hash": "pyYWsATitlhoUf1gToi/QA=="
         }
       },
       "is_incremental": false,
@@ -518,7 +518,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/validation-reference/locale-specific-links.html",
-          "hash": "QwWL4c2uUt4T0qPW6Fsnjw=="
+          "hash": "CeMTE3knqoLSIoRRW3uQfw=="
         }
       },
       "is_incremental": false,
@@ -530,7 +530,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/validation-reference/markdown-headings.html",
-          "hash": "i179tYBiOmharWdy2S2iZQ=="
+          "hash": "aexlSUrZaMMNJTJ6rXo83g=="
         }
       },
       "is_incremental": false,
@@ -587,7 +587,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "yY0hNkyDY3S0RDGp7VcPNw=="
+          "hash": "+do13iOLpYR5EH3V5rKfig=="
         }
       },
       "is_incremental": false,
@@ -599,7 +599,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/code-of-conduct.html",
-          "hash": "3JAqvPRdhAJew6GopzWFhA=="
+          "hash": "D9KGAXmJFSO5Ooh5zw52wA=="
         }
       },
       "is_incremental": false,
@@ -622,7 +622,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/overview.html",
-          "hash": "Ao55UmnMmaax9Un/zixGng=="
+          "hash": "KIyx3vOhnisiTNtWX4xXrA=="
         }
       },
       "is_incremental": false,
@@ -634,7 +634,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/privacy-overview.html",
-          "hash": "V6vpDC0aSRm04w2yb3qGLQ=="
+          "hash": "iFGsdBm6Fbekju+GIUBA9g=="
         }
       },
       "is_incremental": false,
@@ -646,7 +646,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/privacy-policy.html",
-          "hash": "qcWtiL5bESCrYV4Skg0yzA=="
+          "hash": "WGXAPxJ1KP72FLa6FXLSLQ=="
         }
       },
       "is_incremental": false,
@@ -658,7 +658,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/tacos-overview.html",
-          "hash": "UKqKpoaBq0o5GjjPgh66FQ=="
+          "hash": "H8vZb/C7rYk88h6YjSeOMg=="
         }
       },
       "is_incremental": false,
@@ -670,7 +670,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/tacos-policy.html",
-          "hash": "QkDSplB2EaZIfXQ8QNTQMQ=="
+          "hash": "MrH+kyDMniZRXoUXHlsC0w=="
         }
       },
       "is_incremental": false,
@@ -694,7 +694,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/vulnerability-reporting.html",
-          "hash": "+AUmG2m766CPYBK931M5Xw=="
+          "hash": "ZxjkjRYPlExKWOx8dxueCw=="
         }
       },
       "is_incremental": false,
@@ -718,22 +718,31 @@
       "status": {
         "can_incremental": false,
         "details": "Cannot build incrementally because last build info is missing.",
-        "incrementalPhase": "build"
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
-          "incrementalPhase": "build"
+          "incrementalPhase": "build",
+          "total_file_count": 35,
+          "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
         }
       }
     },
@@ -741,7 +750,9 @@
       "status": {
         "can_incremental": false,
         "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
-        "incrementalPhase": "postProcessing"
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
       },
       "processors": {}
     }
