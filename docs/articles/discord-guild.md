@@ -16,7 +16,7 @@ We will start out assuming you have already created your guild, chosen its name,
 
 Going into this guide, it is a good idea to keep in mind these guidelines:
 
-* **Less is more**: You should make the least amount changes as possible. Roles should only be given the bare minimum permissions to allow users with that role to do their job (see the [RBAC Section](#RBAC-Role-Based-Access-Control).) Channel and Channel Category overrides should only differ from role permissions where that channel or channel category differs. For instance, staff-only channels.
+* **Less is more**: You should make the least amount of changes possible. Roles should only be given the bare minimum permissions to allow users with that role to do their job (see the [RBAC Section](#RBAC-Role-Based-Access-Control).) Channel and Channel Category overrides should only differ from role permissions where that channel or channel category differs. For instance, staff-only channels.
 * **Inheritance is your friend**: Don't be afraid to grant members more than one role, especially if they do more than one job. In LuzFaltex communities, all staff members, regardless of their organizational role, are moderators. As such, every staff member gets the Moderator role in addition to the role specific to their team.
 * **KISS is powerful**: By making only necessary changes and following this best practice guide as closely as possible, you enable future administrators to understand the server configuration at a glance. Additionally, servers that are simple scale easily, so configurations made when the server was small do not impede growth.
 
