@@ -14,11 +14,23 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/discord-guild.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/discord-guild.html",
+          "hash": "Ak0Eo13rz4iDTyvBdCH9Yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/immutable-laws.md",
       "output": {
         ".html": {
           "relative_path": "articles/immutable-laws.html",
-          "hash": "8vIQqfiaXjGzHkIisiVoZw=="
+          "hash": "ySbvOM1VJ1GMsgr4xiWRJg=="
         }
       },
       "is_incremental": false,
@@ -30,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "A6Mc0ndXPWiVDr62UJYWeA=="
+          "hash": "IbU8dNXSdpeUliU+FuSSOQ=="
         }
       },
       "is_incremental": false,
@@ -42,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "2hNtcWnMan63IIYRB+vfiA=="
+          "hash": "q6FRt29axHsTimmau6Hbqw=="
         }
       },
       "is_incremental": false,
@@ -54,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/additional-resources.html",
-          "hash": "C29y9jEO4P/PM5/GtiAMyg=="
+          "hash": "A4wJS4BoDfnjiYLJjEDSyw=="
         }
       },
       "is_incremental": false,
@@ -66,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/api-review.html",
-          "hash": "K/06svBVZKGbHHDgXkh0BQ=="
+          "hash": "1ulSh2xDMVbtjlcSdvGTYg=="
         }
       },
       "is_incremental": false,
@@ -78,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/coding-style.html",
-          "hash": "92sqCy7SsMm7wTXf1nEbIQ=="
+          "hash": "jjxhYojdgM3LEYm/g2eEDw=="
         }
       },
       "is_incremental": false,
@@ -90,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/contributing.html",
-          "hash": "U0AfqsiRk3/CK87LMCzVZw=="
+          "hash": "QYK7/1k1PpdaMK+j4KRKDA=="
         }
       },
       "is_incremental": false,
@@ -102,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/copyright.html",
-          "hash": "RBuEWjrPvr6xrIjNNWBT0g=="
+          "hash": "7eLlqYiW2zTGWVhfDrWIIg=="
         }
       },
       "is_incremental": false,
@@ -114,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/framework-design-guidelines-digest.html",
-          "hash": "WmviCC6OlgxRWjSqk/EVbg=="
+          "hash": "TNK5AhasvTY+NVfOQr6R8w=="
         }
       },
       "is_incremental": false,
@@ -126,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/issue-guide.html",
-          "hash": "xWh4fkuiVRuw11+BtLmyOQ=="
+          "hash": "DsHlzNCP84VC1UdEwvScPw=="
         }
       },
       "is_incremental": false,
@@ -138,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/code/workflow.html",
-          "hash": "4L/kudUIeSj65XeNcoEUWw=="
+          "hash": "kPjqGycPolOcAMdkxJjAKg=="
         }
       },
       "is_incremental": false,
@@ -150,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/get-started-setup-github.html",
-          "hash": "+x2rpSe9Rcu/7FpNwO1nxQ=="
+          "hash": "vuVfunCCDUlqzi9k/5B/Ww=="
         }
       },
       "is_incremental": false,
@@ -162,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/get-started-setup-local.html",
-          "hash": "cJpWiVv6maNZSt0ShpQbqA=="
+          "hash": "jJHKe6RjGroegw0U+7axVg=="
         }
       },
       "is_incremental": false,
@@ -174,7 +186,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/get-started-setup-tools.html",
-          "hash": "S2C8VkXBA/gO9mndbgYArg=="
+          "hash": "0PpUa9js/n99V9NkidLeWw=="
         }
       },
       "is_incremental": false,
@@ -186,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/git-github-fundamentals.html",
-          "hash": "aOBqv6wOPAiraLJqvOLd7g=="
+          "hash": "LWL4FsBC437n1sLIYfZYAw=="
         }
       },
       "is_incremental": false,
@@ -198,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/how-to-write-docs-auth-pack.html",
-          "hash": "wrAoRq5x0r5/HNeinTq8hg=="
+          "hash": "+LdZ/BXR9UwG4nkaHCa1Zg=="
         }
       },
       "is_incremental": false,
@@ -210,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/how-to-write-links.html",
-          "hash": "ecLbsqWZl8B5EuvbTy9i+w=="
+          "hash": "jMC/GnrAV6FKrmSzphV/4A=="
         }
       },
       "is_incremental": false,
@@ -222,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/how-to-write-use-markdown.html",
-          "hash": "ccVDQzr+fSJs51D31ETgJw=="
+          "hash": "n4o+6XqgsDF291eB4Fo/mQ=="
         }
       },
       "is_incremental": false,
@@ -234,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/how-to-write-workflows-major.html",
-          "hash": "xVlQNlUXTk6EaYfSpk+YTg=="
+          "hash": "5UiESatDHMhKDzoJk5EmFA=="
         }
       },
       "is_incremental": false,
@@ -246,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/includes/contribute-how-to-pull-requests-apex-automation.html",
-          "hash": "5IWrxWwGMpQ0aTA7YpJbeQ=="
+          "hash": "97gnJXJmHliFfD3i+hj4Bw=="
         }
       },
       "is_incremental": false,
@@ -258,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/includes/contribute-how-to-write-workflows-major-change-definition.html",
-          "hash": "UhSiSlqFfyx/qmF67utwow=="
+          "hash": "D53AY+RmlXZtU3WE3ldNbg=="
         }
       },
       "is_incremental": false,
@@ -270,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/includes/contribute-how-to-write-workflows-pull-request-processing.html",
-          "hash": "SdUp8UxM6GRDPKySjFBw2w=="
+          "hash": "EimA9lzJgYdASB1DJOJEjQ=="
         }
       },
       "is_incremental": false,
@@ -282,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/index.html",
-          "hash": "uRR1JmzKW+6RiLo1yjxtoQ=="
+          "hash": "DntlSi/x9xMoodsEO5kp7A=="
         }
       },
       "is_incremental": false,
@@ -470,7 +482,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/quick-create.html",
-          "hash": "i3NejfmrEBSrj97EkpDBiA=="
+          "hash": "EK+/cZu3GfbyyMzfsgU8EA=="
         }
       },
       "is_incremental": false,
@@ -482,7 +494,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/style-quick-start.html",
-          "hash": "xYaJZO8UElpiXXD3IbjC1w=="
+          "hash": "ZT68EffFhRW1LaYQW7a/gQ=="
         }
       },
       "is_incremental": false,
@@ -506,7 +518,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/validation-reference/index.html",
-          "hash": "pyYWsATitlhoUf1gToi/QA=="
+          "hash": "H38D2mpLHG50hvHd2ybTdQ=="
         }
       },
       "is_incremental": false,
@@ -518,7 +530,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/validation-reference/locale-specific-links.html",
-          "hash": "CeMTE3knqoLSIoRRW3uQfw=="
+          "hash": "8Xu5ip9l3sMw73n58zLK5A=="
         }
       },
       "is_incremental": false,
@@ -530,7 +542,7 @@
       "output": {
         ".html": {
           "relative_path": "contribute/validation-reference/markdown-headings.html",
-          "hash": "aexlSUrZaMMNJTJ6rXo83g=="
+          "hash": "f9WUcd3TNA+Z11rYr+X/Tw=="
         }
       },
       "is_incremental": false,
@@ -587,7 +599,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "+do13iOLpYR5EH3V5rKfig=="
+          "hash": "e0HKehuUFfbgb7OZwpVZaQ=="
         }
       },
       "is_incremental": false,
@@ -599,7 +611,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/code-of-conduct.html",
-          "hash": "D9KGAXmJFSO5Ooh5zw52wA=="
+          "hash": "xBu4+NMCgZXHkRRr17ngsg=="
         }
       },
       "is_incremental": false,
@@ -622,7 +634,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/overview.html",
-          "hash": "KIyx3vOhnisiTNtWX4xXrA=="
+          "hash": "WSe6NxUymBAeyz96zFWYkQ=="
         }
       },
       "is_incremental": false,
@@ -634,7 +646,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/privacy-overview.html",
-          "hash": "iFGsdBm6Fbekju+GIUBA9g=="
+          "hash": "nF4HutDflMCRIeYqa94eLw=="
         }
       },
       "is_incremental": false,
@@ -646,7 +658,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/privacy-policy.html",
-          "hash": "WGXAPxJ1KP72FLa6FXLSLQ=="
+          "hash": "rczvegaIHL3IzsEK0Z1qYA=="
         }
       },
       "is_incremental": false,
@@ -658,7 +670,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/tacos-overview.html",
-          "hash": "H8vZb/C7rYk88h6YjSeOMg=="
+          "hash": "jkEIlTDrc0l0rTgX62608A=="
         }
       },
       "is_incremental": false,
@@ -670,7 +682,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/tacos-policy.html",
-          "hash": "MrH+kyDMniZRXoUXHlsC0w=="
+          "hash": "XbCN22t7F7+eNKJYqZZQqA=="
         }
       },
       "is_incremental": false,
@@ -694,7 +706,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/vulnerability-reporting.html",
-          "hash": "ZxjkjRYPlExKWOx8dxueCw=="
+          "hash": "I2d2eqtZptpt6hGYa7JKIw=="
         }
       },
       "is_incremental": false,
@@ -724,9 +736,9 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "TocDocumentProcessor": {
+        "ResourceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
@@ -734,12 +746,12 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 35,
+          "total_file_count": 36,
           "skipped_file_count": 0
         },
-        "ResourceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
