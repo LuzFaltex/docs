@@ -1,2 +1,4 @@
 - name: 10 Immutable Laws of Security
   href: immutable-laws.md
+- name: Discord Guild Configuration
+  href: discord-guild.md
