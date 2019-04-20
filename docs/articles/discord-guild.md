@@ -44,7 +44,7 @@ The first task is to configure the Everyone role so that it will act as a proper
 
 #### Whitelisted Guilds
 
-A Member role should be created for whitelisted servers. It is poor practice to have a New Member role and have it restrict permissions from Everyone`. Permissions should be additive, not given at lower levels and granted at higher levels. This ensures administrators will always be able to rely on the idea that users with some roles will have more permissions that those without, and that access control situations remain simple and easy to set up.
+A Member role should be created for whitelisted servers. It is poor practice to have a New Member role and have it restrict permissions from Everyone. Permissions should be additive, not given at lower levels and granted at higher levels. This ensures administrators will always be able to rely on the idea that users with some roles will have more permissions that those without, and that access control situations remain simple and easy to set up.
 
 In the case of whitelisted servers, the Member role should be given an identical set of permissions to Everyone. The ability to see or not see certain channels will depend entirely upon channel or channel group permissions.
 
