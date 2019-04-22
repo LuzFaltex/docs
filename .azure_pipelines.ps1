@@ -20,5 +20,5 @@ Set-Content -Path "./CNAME" -Value "docs.luzfaltex.com`r`n"
 
 Write-Output "Push the new docs to the remote branch"
 git add .
-git commit -m "$(Build.SourceVersionMessage)"
+git commit -m "$($env:Build.SourceVersionMessage)"
 git push -f origin gh-pages
