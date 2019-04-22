@@ -1,6 +1,6 @@
 # LuzFaltex Documentation
 
-[![Build status](https://luzfaltex.visualstudio.com/LuzFaltex Docs/_apis/build/status/LuzFaltex%20Docs-CI)](https://luzfaltex.visualstudio.com/LuzFaltex Docs/_build/latest?definitionId=1)
+[![Build status](https://luzfaltex.visualstudio.com/LuzFaltexDocs/_apis/build/status/LuzFaltex%20Docs-CI)](https://luzfaltex.visualstudio.com/LuzFaltexDocs/_build/latest?definitionId=1)
 
 This repository contains operational documentation for LuzFaltex as well as documentation regarding products.
 
