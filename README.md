@@ -1,4 +1,7 @@
 # LuzFaltex Documentation
+
+[![Build status](https://luzfaltex.visualstudio.com/LuzFaltex Docs/_apis/build/status/LuzFaltex%20Docs-CI)](https://luzfaltex.visualstudio.com/LuzFaltex Docs/_build/latest?definitionId=1)
+
 This repository contains operational documentation for LuzFaltex as well as documentation regarding products.
 
 We welcome contributions to help us improve and complete the docs. To contribute, see the Projects for [LuzFaltex Community Contributors](https://github.com/LuzFaltex/docs/projects/1) for ideas. The [Contribution Guide](./docs/contribute/index.md) (Coming Soon) has instructions on procedures we use. Or, check the issues list for tasks that interest you.
