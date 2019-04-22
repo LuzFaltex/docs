@@ -13,7 +13,7 @@ Set-Location site
 git rm -r *
 
 Write-Output "Copy documentation into the repo"
-Copy-Item -Path $(System.DefaultWorkingDirectory)/docs/_site/* -Destination . -Recurse
+Copy-Item -Path ../docs/_site/* -Destination . -Recurse
 
 Write-Output "Build CNAME doc"
 Set-Content -Path "./CNAME" -Value "docs.luzfaltex.com`r`n"
