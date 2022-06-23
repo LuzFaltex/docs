@@ -1,5 +1,7 @@
 # LuzFaltex Documentation
 
+⚠ This repo has been removed and replaced. Please view https://www.luzfaltex.com/docs
+
 [![Build status](https://luzfaltex.visualstudio.com/LuzFaltexDocs/_apis/build/status/LuzFaltex%20Docs-CI)](https://luzfaltex.visualstudio.com/LuzFaltexDocs/_build/latest?definitionId=1)
 
 This repository contains operational documentation for LuzFaltex as well as documentation regarding products.
